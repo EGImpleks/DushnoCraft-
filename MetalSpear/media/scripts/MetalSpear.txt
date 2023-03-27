@@ -4,7 +4,7 @@ module Base
     {
         MaxRange            = 1.5,
         WeaponSprite        = MetalSpearCrafted,
-        MinAngle            = 0.8,
+        MinAngle            = 0.9,
         Type                = Weapon,
         MinimumSwingTime    = 2,
         KnockBackOnNoDeath  = FALSE,
