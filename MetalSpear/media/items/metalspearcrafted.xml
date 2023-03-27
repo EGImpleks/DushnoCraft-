@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<itemManager>
+    <m_Items>
+        <m_Model>x:static/items/spearcrafted</m_Model>
+        <m_Texture>items/metalspearcrafted</m_Texture>
+        <m_TwoHanded>true</m_TwoHanded>
+        <m_WeaponType>2handed</m_WeaponType>
+    </m_Items>
+
+
+
+</itemManager>
